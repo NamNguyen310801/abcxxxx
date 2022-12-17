@@ -1,0 +1,69 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="wrap_content"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    android:orientation="horizontal"
+    android:weightSum="5">
+
+    <ImageView
+        android:id="@+id/itemBaiHatNgauNhien_imgBaiHat"
+        android:layout_width="80dp"
+        android:layout_height="80dp"
+        android:layout_margin="5dp"
+        android:scaleType="fitXY"
+        />
+
+    <LinearLayout
+        android:layout_width="0dp"
+        android:layout_height="wrap_content"
+        android:layout_gravity="center"
+        android:layout_weight="5"
+        android:orientation="vertical">
+
+        <TextView
+            android:id="@+id/itemBaiHatNgauNhien_txtBaiHat"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:padding="2dp"
+            android:text="Tên bài hát"
+            android:textColor="@color/black"
+            android:textSize="18sp"
+            android:textStyle="bold"
+            android:gravity="left"
+            android:maxLines="1"
+            android:ellipsize="end"
+            android:maxWidth="200dp"/>
+
+        <TextView
+            android:id="@+id/itemBaiHatNgauNhien_txtCaSi"
+            android:gravity="left"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:padding="2dp"
+            android:text="Tên ca sĩ"
+            android:textColor="@color/black"
+            android:textSize="16sp"
+            android:maxLines="1"
+            android:ellipsize="end"
+            android:maxWidth="200dp"/>
+
+    </LinearLayout>
+    <ImageView
+        android:id="@+id/imageviewdownload2"
+        android:layout_width="50dp"
+        android:layout_height="50dp"
+        android:layout_gravity="center"
+        android:layout_marginRight="5dp"
+        android:layout_toLeftOf="@+id/itemBaiHatNgauNhien_txtCaSi_icLove"
+        android:src="@drawable/icondownload" />
+    <ImageView
+        android:id="@+id/itemBaiHatNgauNhien_txtCaSi_icLove"
+        android:layout_width="50dp"
+        android:layout_height="50dp"
+        android:layout_gravity="center"
+        android:layout_marginRight="5dp"
+        android:src="@drawable/iconlove"
+        />
+
+</LinearLayout>

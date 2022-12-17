@@ -1,0 +1,64 @@
+<?xml version="1.0" encoding="utf-8"?>
+<androidx.cardview.widget.CardView
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="wrap_content"
+    android:layout_margin="5dp"
+    android:elevation="5dp">
+    <RelativeLayout
+        android:padding="10dp"
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"        >
+
+        <TextView
+            android:layout_margin="15dp"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:id="@+id/textviewdanhsachindex"
+            android:text="1"
+            android:textSize="20sp"/>
+
+        <TextView
+            android:id="@+id/textviewtenbaihat"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_toRightOf="@+id/textviewdanhsachindex"
+            android:ellipsize="end"
+            android:maxWidth="250dp"
+            android:maxLines="1"
+            android:text="Ten ca khuc"
+            android:textColor="#030303"
+            android:textSize="20sp" />
+
+        <TextView
+            android:layout_below="@+id/textviewtenbaihat"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:id="@+id/textviewtencasi"
+            android:layout_toRightOf="@+id/textviewdanhsachindex"
+            android:ellipsize="end"
+            android:maxLines="1"
+            android:textColor="#979797"
+            android:textSize="20sp"
+            android:text="Ca si"/>
+
+        <ImageView
+            android:id="@+id/imageviewdownload"
+            android:layout_width="30dp"
+            android:layout_height="30dp"
+            android:layout_centerVertical="true"
+            android:layout_marginRight="5dp"
+            android:layout_toLeftOf="@+id/imageviewluotthichdanhsachbaihat"
+            android:src="@drawable/icondownload" />
+
+        <ImageView
+            android:id="@+id/imageviewluotthichdanhsachbaihat"
+            android:layout_width="30dp"
+            android:layout_height="30dp"
+            android:layout_alignParentRight="true"
+            android:layout_centerVertical="true"
+            android:layout_marginRight="5dp"
+            android:src="@drawable/iconlove" />
+    </RelativeLayout>
+
+</androidx.cardview.widget.CardView>

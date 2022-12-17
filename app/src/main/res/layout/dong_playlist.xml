@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent">
+    <ImageView
+        android:id="@+id/imageviewbackgroundplaylist"
+        android:layout_marginLeft="8dp"
+        android:layout_marginTop="5dp"
+        android:layout_marginRight="8dp"
+        android:scaleType="fitXY"
+        android:layout_width="match_parent"
+        android:layout_height="110dp"/>
+
+    <View
+        android:layout_width="match_parent"
+        android:layout_height="110dp"
+        android:layout_marginLeft="8dp"
+        android:layout_marginTop="5dp"
+        android:layout_marginRight="8dp"
+        android:background="@drawable/custom_background_banner" />
+    <ImageView
+        android:id="@+id/imageviewplaylist"
+        android:layout_width="50dp"
+        android:layout_height="50dp"
+        android:elevation="6dp"
+        android:scaleType="fitXY"
+        android:layout_marginBottom="10dp"
+        android:layout_marginLeft="15dp"
+        android:layout_alignBottom="@+id/imageviewbackgroundplaylist"/>
+    <TextView
+        android:layout_alignBottom="@+id/imageviewplaylist"
+        android:layout_toRightOf="@+id/imageviewplaylist"
+        android:layout_marginLeft="13dp"
+        android:textStyle="bold"
+        android:textColor="#ffff"
+        android:id="@+id/textviewtenplaylist"
+        android:maxLines="1"
+        android:layout_marginBottom="5dp"
+        android:layout_marginRight="50dp"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:ellipsize="end"
+        android:text="Nhung bai hat tam trang"
+        android:textSize="13sp"/>
+</RelativeLayout>

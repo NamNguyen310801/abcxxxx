@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical"
+    tools:context=".Activity.DownloadActivity">
+    <androidx.appcompat.widget.Toolbar
+        android:layout_width="match_parent"
+        android:layout_height="?attr/actionBarSize"
+        android:id="@+id/toolbardownload">
+
+    </androidx.appcompat.widget.Toolbar>
+    <ImageView
+        android:layout_width="80dp"
+        android:layout_height="80dp"
+        android:padding="3dp"
+        android:scaleType="fitXY"
+        android:id="@+id/imageviewbaihat"
+        />
+
+    <TextView
+        android:id="@+id/textbaihat"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_marginLeft="5dp"
+        android:layout_marginTop="7dp"
+        android:layout_toRightOf="@+id/imageviewbaihathot"
+        android:ellipsize="end"
+        android:maxLines="1"
+        android:text="Tên Bài Hát"
+        android:textColor="#363636"
+        android:textSize="18sp" />
+
+    <TextView
+        android:id="@+id/textviewcasi"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_below="@+id/textbaihathot"
+        android:layout_marginLeft="5sp"
+        android:layout_marginTop="7dp"
+        android:layout_toRightOf="@+id/imageviewbaihathot"
+        android:maxLines="1"
+        android:text="Ca Sĩ"
+        android:textColor="#8c8a8a"
+        android:textSize="18sp" />
+
+    <Button
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_marginTop="20dp"
+        android:background="#145236"
+        android:id="@+id/btn_dl"
+        android:text="Download"
+        android:textColor="#111111"
+        />
+
+</LinearLayout>

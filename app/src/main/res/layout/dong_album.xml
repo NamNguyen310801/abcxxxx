@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="utf-8"?>
+<androidx.cardview.widget.CardView xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="wrap_content"
+    android:layout_height="wrap_content"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    android:layout_gravity="center"
+    android:layout_marginRight="10dp"
+    android:layout_marginLeft="10dp"
+    app:cardCornerRadius="10dp">
+
+
+    <LinearLayout
+        android:orientation="vertical"
+        android:id="@+id/linearcarviewalbum"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content">
+        <ImageView
+            android:layout_width="200dp"
+            android:layout_height="200dp"
+            android:id="@+id/imageviewalbum"
+            android:scaleType="fitXY"
+            android:layout_gravity="center"
+            />
+        <TextView
+            android:maxLines="1"
+            android:id="@+id/textviewtenalbum"
+            android:layout_marginRight="2dp"
+            android:layout_marginLeft="2dp"
+            android:ellipsize="end"
+            android:maxWidth="200dp"
+            android:textSize="20sp"
+            android:text="Chờ ngày mưa tan"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"/>
+        <TextView
+            android:maxWidth="200dp"
+            android:textSize="15sp"
+            android:textColor="#573D3D"
+            android:text="Noo Phước Thịnh"
+            android:ellipsize="end"
+            android:maxLines="1"
+            android:id="@+id/textviewtencasialbum"
+            android:layout_marginRight="2dp"
+            android:layout_marginLeft="2dp"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"/>
+    </LinearLayout>
+
+</androidx.cardview.widget.CardView>

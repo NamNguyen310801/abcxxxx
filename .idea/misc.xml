@@ -1,0 +1,73 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="DesignSurface">
+    <option name="filePathToZoomLevelMap">
+      <map>
+        <entry key="..\:/AndroidStudioProjects/MyAppMusic/app/src/main/res/drawable/custom_background_banner.xml" value="0.1" />
+        <entry key="..\:/AndroidStudioProjects/MyAppMusic/app/src/main/res/drawable/custom_background_play_nhac.xml" value="0.1" />
+        <entry key="..\:/AndroidStudioProjects/MyAppMusic/app/src/main/res/layout/activity_danh_sach_video.xml" value="0.2713541666666667" />
+        <entry key="..\:/AndroidStudioProjects/MyAppMusic/app/src/main/res/layout/activity_danhsachbaihat.xml" value="0.23049645390070922" />
+        <entry key="..\:/AndroidStudioProjects/MyAppMusic/app/src/main/res/layout/activity_danhsachcacplaylist.xml" value="0.26268115942028986" />
+        <entry key="..\:/AndroidStudioProjects/MyAppMusic/app/src/main/res/layout/activity_danhsachtatcaalbum.xml" value="0.12604166666666666" />
+        <entry key="..\:/AndroidStudioProjects/MyAppMusic/app/src/main/res/layout/activity_danhsachtatcachude.xml" value="0.13385416666666666" />
+        <entry key="..\:/AndroidStudioProjects/MyAppMusic/app/src/main/res/layout/activity_danhsachtheloaitheochude.xml" value="0.13385416666666666" />
+        <entry key="..\:/AndroidStudioProjects/MyAppMusic/app/src/main/res/layout/activity_download.xml" value="0.27447916666666666" />
+        <entry key="..\:/AndroidStudioProjects/MyAppMusic/app/src/main/res/layout/activity_main.xml" value="0.1" />
+        <entry key="..\:/AndroidStudioProjects/MyAppMusic/app/src/main/res/layout/activity_play_nhac.xml" value="0.264" />
+        <entry key="..\:/AndroidStudioProjects/MyAppMusic/app/src/main/res/layout/activity_play_video.xml" value="0.16770833333333332" />
+        <entry key="..\:/AndroidStudioProjects/MyAppMusic/app/src/main/res/layout/dong_album.xml" value="0.14010416666666667" />
+        <entry key="..\:/AndroidStudioProjects/MyAppMusic/app/src/main/res/layout/dong_all_album.xml" value="0.13385416666666666" />
+        <entry key="..\:/AndroidStudioProjects/MyAppMusic/app/src/main/res/layout/dong_bai_hat_hot.xml" value="0.13385416666666666" />
+        <entry key="..\:/AndroidStudioProjects/MyAppMusic/app/src/main/res/layout/dong_banner.xml" value="0.18568840579710144" />
+        <entry key="..\:/AndroidStudioProjects/MyAppMusic/app/src/main/res/layout/dong_cac_chu_de.xml" value="0.13333333333333333" />
+        <entry key="..\:/AndroidStudioProjects/MyAppMusic/app/src/main/res/layout/dong_danh_sach_bai_hat.xml" value="0.25089605734767023" />
+        <entry key="..\:/AndroidStudioProjects/MyAppMusic/app/src/main/res/layout/dong_danh_sach_cac_playlist.xml" value="0.1644021739130435" />
+        <entry key="..\:/AndroidStudioProjects/MyAppMusic/app/src/main/res/layout/dong_play_bai_hat.xml" value="0.176" />
+        <entry key="..\:/AndroidStudioProjects/MyAppMusic/app/src/main/res/layout/dong_playlist.xml" value="0.1634963768115942" />
+        <entry key="..\:/AndroidStudioProjects/MyAppMusic/app/src/main/res/layout/dong_search_bai_hat.xml" value="0.16" />
+        <entry key="..\:/AndroidStudioProjects/MyAppMusic/app/src/main/res/layout/dong_the_loai_theo_chu_de.xml" value="0.13385416666666666" />
+        <entry key="..\:/AndroidStudioProjects/MyAppMusic/app/src/main/res/layout/fragment_album_hot.xml" value="0.1634963768115942" />
+        <entry key="..\:/AndroidStudioProjects/MyAppMusic/app/src/main/res/layout/fragment_bai_hat_thich_nhat.xml" value="0.14010416666666667" />
+        <entry key="..\:/AndroidStudioProjects/MyAppMusic/app/src/main/res/layout/fragment_banner.xml" value="0.15307971014492755" />
+        <entry key="..\:/AndroidStudioProjects/MyAppMusic/app/src/main/res/layout/fragment_chude_theloai_today.xml" value="0.2" />
+        <entry key="..\:/AndroidStudioProjects/MyAppMusic/app/src/main/res/layout/fragment_dia_nhac.xml" value="0.1585144927536232" />
+        <entry key="..\:/AndroidStudioProjects/MyAppMusic/app/src/main/res/layout/fragment_play_danh_sach_cac_bai_hat.xml" value="0.1" />
+        <entry key="..\:/AndroidStudioProjects/MyAppMusic/app/src/main/res/layout/fragment_playlist.xml" value="0.1634963768115942" />
+        <entry key="..\:/AndroidStudioProjects/MyAppMusic/app/src/main/res/layout/fragment_tim_kiem.xml" value="0.15307971014492755" />
+        <entry key="..\:/AndroidStudioProjects/MyAppMusic/app/src/main/res/layout/fragment_trang_chu.xml" value="0.1" />
+        <entry key="..\:/AndroidStudioProjects/MyAppMusic/app/src/main/res/layout/fragment_video.xml" value="0.15806159420289856" />
+        <entry key="..\:/AndroidStudioProjects/MyAppMusic/app/src/main/res/layout/row_video_youtube.xml" value="0.15806159420289856" />
+        <entry key="..\:/AndroidStudioProjects/MyAppMusic/app/src/main/res/menu/search_view.xml" value="0.14114583333333333" />
+        <entry key="..\:/AndroidStudioProjects/MyAppMusic/app/src/main/res/mipmap-anydpi-v26/ic_launcher.xml" value="0.1" />
+        <entry key="..\:/AndroidStudioProjects/MyAppMusic/app/src/main/res/mipmap-anydpi-v26/ic_launcher_round.xml" value="0.1" />
+        <entry key="..\:/Users/NAM/OneDrive/Desktop/a/MyAppMusic/app/src/main/res/layout/activity_danh_sach_video.xml" value="0.1661600810536981" />
+        <entry key="..\:/Users/NAM/OneDrive/Desktop/a/MyAppMusic/app/src/main/res/layout/activity_danhsachbaihat.xml" value="0.1" />
+        <entry key="..\:/Users/NAM/OneDrive/Desktop/a/MyAppMusic/app/src/main/res/layout/activity_danhsachcacplaylist.xml" value="0.1" />
+        <entry key="..\:/Users/NAM/OneDrive/Desktop/a/MyAppMusic/app/src/main/res/layout/activity_download.xml" value="0.1" />
+        <entry key="..\:/Users/NAM/OneDrive/Desktop/a/MyAppMusic/app/src/main/res/layout/activity_main.xml" value="0.1661600810536981" />
+        <entry key="..\:/Users/NAM/OneDrive/Desktop/a/MyAppMusic/app/src/main/res/layout/activity_video.xml" value="0.25" />
+        <entry key="..\:/Users/NAM/OneDrive/Desktop/a/MyAppMusic/app/src/main/res/layout/dong_album.xml" value="0.1661600810536981" />
+        <entry key="..\:/Users/NAM/OneDrive/Desktop/a/MyAppMusic/app/src/main/res/layout/dong_banner.xml" value="0.1661600810536981" />
+        <entry key="..\:/Users/NAM/OneDrive/Desktop/a/MyAppMusic/app/src/main/res/layout/dong_cac_chu_de.xml" value="0.1661600810536981" />
+        <entry key="..\:/Users/NAM/OneDrive/Desktop/a/MyAppMusic/app/src/main/res/layout/dong_danh_sach_bai_hat.xml" value="0.1661600810536981" />
+        <entry key="..\:/Users/NAM/OneDrive/Desktop/a/MyAppMusic/app/src/main/res/layout/dong_the_loai_theo_chu_de.xml" value="0.1661600810536981" />
+        <entry key="..\:/Users/NAM/OneDrive/Desktop/a/MyAppMusic/app/src/main/res/layout/dong_video.xml" value="0.16590678824721378" />
+        <entry key="..\:/Users/NAM/OneDrive/Desktop/a/MyAppMusic/app/src/main/res/layout/fragment_album_hot.xml" value="0.1661600810536981" />
+        <entry key="..\:/Users/NAM/OneDrive/Desktop/a/MyAppMusic/app/src/main/res/layout/fragment_bai_hat_thich_nhat.xml" value="0.1661600810536981" />
+        <entry key="..\:/Users/NAM/OneDrive/Desktop/a/MyAppMusic/app/src/main/res/layout/fragment_banner.xml" value="0.1661600810536981" />
+        <entry key="..\:/Users/NAM/OneDrive/Desktop/a/MyAppMusic/app/src/main/res/layout/fragment_chude_theloai_today.xml" value="0.1661600810536981" />
+        <entry key="..\:/Users/NAM/OneDrive/Desktop/a/MyAppMusic/app/src/main/res/layout/fragment_play_danh_sach_cac_bai_hat.xml" value="0.1661600810536981" />
+        <entry key="..\:/Users/NAM/OneDrive/Desktop/a/MyAppMusic/app/src/main/res/layout/fragment_playlist.xml" value="0.1661600810536981" />
+        <entry key="..\:/Users/NAM/OneDrive/Desktop/a/MyAppMusic/app/src/main/res/layout/fragment_video.xml" value="0.1661600810536981" />
+        <entry key="..\:/Users/NAM/OneDrive/Desktop/a/MyAppMusic/app/src/main/res/layout/row_video_youtube.xml" value="0.1661600810536981" />
+        <entry key="..\:/Users/NAM/OneDrive/Desktop/a/MyAppMusic/app/src/main/res/layout/video_activity.xml" value="0.16576086956521738" />
+      </map>
+    </option>
+  </component>
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_11" default="true" project-jdk-name="Android Studio default JDK" project-jdk-type="JavaSDK">
+    <output url="file://$PROJECT_DIR$/build/classes" />
+  </component>
+  <component name="ProjectType">
+    <option name="id" value="Android" />
+  </component>
+</project>
